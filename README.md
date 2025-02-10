@@ -4,4 +4,4 @@ Open Cmd
 
 Type "pip install colorama" (This will install colorama)
 
-Play the quiz_game.py to start the game
+Run the quiz_game.py through Python or Vs Code to start the game
